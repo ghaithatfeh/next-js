@@ -13,6 +13,9 @@ const NavBar = () => {
 			<Link href="/admin" className="btn btn-ghost text-base">
 				Admin
 			</Link>
+			<Link href="/upload" className="btn btn-ghost text-base">
+				Upload
+			</Link>
 			<div className="ms-auto">
 				<button className="btn btn-square btn-ghost">
 					<svg
